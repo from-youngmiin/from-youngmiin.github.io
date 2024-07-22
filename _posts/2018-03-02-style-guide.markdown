@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Style Guide
+title: 구글맵을 사용하여 위키백과사전 정보를 보여줄 수 있는 사이트 개발
 image: 8.jpg
-date: 2018-03-02 13:35:20 +0200
+date: 2023-10-15
 tags:
 categories: guide
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+위키백과의 내용은 무수히 많다. 누구나 작성할 수 있고 ,,,,,,,,,,
 
 ***
 
