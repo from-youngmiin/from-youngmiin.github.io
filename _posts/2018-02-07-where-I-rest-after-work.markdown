@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Where I rest after work
+title: instagram을 활용한 여행지 추천 어플
 image: 3.jpg
-date: 2018-02-07 18:23:20 +0200
+date: 2023.01.05
 tags: [rest, work]
 categories: rest
 ---
