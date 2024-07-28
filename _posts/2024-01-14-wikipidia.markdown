@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 구글맵을 사용하여 위키백과사전 정보를 보여줄 수 있는 사이트 개발
+title: '[개발]GoogleMap API에 위키백과사전 정보를 보여줄 수 있는 WEB'
 image: 8.jpg
-date: 2023-10-15
+date: 2024-01-14 12:00:00
 tags:
 categories: guide
 ---
