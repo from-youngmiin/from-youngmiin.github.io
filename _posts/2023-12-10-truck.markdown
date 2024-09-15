@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "[특허]이동가능한 매트리스 청소도구"
 date: 2018-02-05 15:13:18 +0200
-image: 12.jpg
+image: .jpgs
 tags: [jekyll, docs]
 categories: jekyll
 ---
