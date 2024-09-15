@@ -16,9 +16,19 @@ categories: rest
 <br>
 ##### 맡은 임무 : 팀장 및 서버파트 (5인으로 구성하여 UI, DB, 크롤링, 서버로 나누어 활동)
 
-##### 사용한 프로그램 : Front-End(PyQt5), Back-end(Flask), Data-crawl(web-crawling), DB(Mysql)
+##### 사용한 프로그램 : 
+<pre>
+    Front-End(PyQt5), 
+    Back-end(Flask), 
+    Data-crawl(web-crawling), 
+    DB(Mysql)
+</pre>
 
-##### 주요 기능 : cos를 활용하여 데이터끼리의 유사도를 측정한다.사용자가 선택한 데이터와 instagram의 태그를 비교하여 유사도가 큰것들을 출력
+##### 주요 기능 : 
+<pre>
+cos를 활용하여 데이터끼리의 유사도를 측정한다.사용자가 선택한 데이터와 
+instagram의 태그를 비교하여 유사도가 큰것들을 출력
+</pre>
 
 >로그인 및 회원가입 화면
 

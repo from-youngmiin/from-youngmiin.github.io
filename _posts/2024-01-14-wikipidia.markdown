@@ -16,12 +16,21 @@ categories: guide
 <br>
 ##### 맡은 임무 : UI파트 (5인으로 구성하여 UI, DB, 시각화, 크롤링, 서버로 나누어 활동)
 
-##### 사용한 프로그램 : Front-End(HTML, CSS, Python), Back-end(Django), Data-crawl(web-crawling), DB(DBsqlite3)
+##### 사용한 프로그램 : 
+<pre>
+	Front-End(HTML, CSS, Python), 
+	Back-end(Django), 
+	Data-crawl(web-crawling), 
+	DB(DBsqlite3)
+</pre>
 
 ##### 주요 기능 : 
+<pre>
 
+위키백과의 내용은 무수히 많고, 누구나 수정이 가능하다는 특징이 있다. 지도 위에 위키백과를 접목시켜서 다양한 정보를 활용한다.
+하지만 위키백과에서는 일정한 규칙을 갖고 있지않고 있기 때문에 1차적으로 선택한 위치의 큰 지역을 잡아서 시각화 한다.
 
-위키백과의 내용은 무수히 많다. 누구나 작성할 수 있고 ,,,,,,,,,,
+</pre>
 
 ***
 
@@ -29,23 +38,32 @@ categories: guide
 
 ![Image 22](/images/22.jpg)
 
+회원가입을 진행하기 전에는 화면 전화에 대해 lock이 걸리게되어 회원가입을 유도한다.
+
 >회원가입 및 로그인 화면
 
 ![Image 24](/images/24.jpg){:style="width:48%; height:300px; display:inline-block; margin: 5px;"}
 ![Image 25](/images/25.jpg){:style="width:48%; height:300px; display:inline-block; margin: 5px;"}
 
+로그인 회원가입으로 사용자의 정보를 확인할 수 있도록하였고 회원가입의 창에서는 지도가 random으로 보여지도록하여 전세계를 움직일 수 있도록 하였다.
 
 >메인 화면
 
 ![Image 26](/images/26.jpg)
 
+로그인 성공한 메인화면에서는 주기능인 검색기능도 가능하고 첫 검색이후에는 검색창이 상단으로 고정되게 설정하였다.
+
 >검색창으로 검색한 화면
 
 ![Image 27](/images/27.jpg)
 
+구글Map API를 사용하여 검색의 키워드가 다양하고 선택한 지역의 도로명 주소 중에서 시, 동, 구 의 큰 키워드를 선택해 우측 바에서 키워드의 위키백과 내용이 보여진다.
+
 >검색하지 않고 원하는 곳을 클릭해서 검색한 화면
 
 ![Image 28](/images/28.jpg)
+
+첫 검색이 이루어진 이후에는 지도를 움직여서 경계에 있는 위치를 따로 선택가능하고 해당 장소의 주소를 큰 타이틀로 위키백과 내용이 보여진다.
 
 >이슈
 
