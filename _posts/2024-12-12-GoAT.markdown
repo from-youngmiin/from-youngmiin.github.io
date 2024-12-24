@@ -1,0 +1,74 @@
+---
+layout: post
+title: '[개발] 빠른 매칭 기반 안전한 택시 합승 시스템'
+image: GoAT1.png
+date: 2024.12.12 12:00:00
+tags: [rest, work]
+categories: rest
+---
+##### 소개 : 빠른 매칭 기반 안전한 택시 합승 시스템 기반 어플리케이션을 제작
+##### 개발기간 : 2024.03 ~ 2024.11
+##### 맡은 임무 : Full-stack (3인으로 구성하여 DBA, FULL-STACK, QA로 나누어 활동)
+
+##### 사용한 프로그램 : 
+<pre>
+    Front-End(Flutter), 
+    Back-end(Django),
+    DB(Mysql, redis),
+    Server(Google Cloud Platform(GCP))
+</pre>
+
+##### 주요 기능 : 
+<pre>
+- 출발지의 경도, 위도와 사용자의 GPS 경도 위도를 통한 150m안에 있을 경우 빠른 매칭 사용 유무 확인
+- Websocket을 통한 4명 이하의 인원을 매칭되는 알고리즘 
+- Redis를 활용한 실시간 채팅
+- 카카오페이 API분석 후 결제 알고리즘 적용
+
+</pre>
+
+![Image GoAT2](/images/GoAT2.png)
+
+![Image GoAT4](/images/GoAT4.png)
+
+![Image GoAT5](/images/GoAT5.png)
+
+![Image GoAT6](/images/GoAT6.png)
+
+![Image GoAT7](/images/GoAT7.png)
+
+![Image GoAT8](/images/GoAT8.png)
+
+![Image GoAT9](/images/GoAT9.png)
+
+![Image GoAT10](/images/GoAT10.png)
+
+![Image GoAT11](/images/GoAT11.png)
+
+![Image GoAT12](/images/GoAT12.png)
+
+![Image GoAT13](/images/GoAT13.png)
+
+![Image GoAT14](/images/GoAT14.png)
+
+![Image GoAT15](/images/GoAT15.png)
+
+![Image GoAT16](/images/GoAT16.png)
+
+![Image GoAT17](/images/GoAT17.png)
+
+![Image GoAT18](/images/GoAT18.png)
+
+![Image GoAT19](/images/GoAT19.png)
+
+![Image GoAT20](/images/GoAT20.png)
+
+![Image GoAT21](/images/GoAT21.png)
+
+![Image GoAT22](/images/GoAT22.png)
+
+![Image GoAT23](/images/GoAT23.png)
+
+![Image GoAT24](/images/GoAT24.png)
+
+![Image GoAT25](/images/GoAT25.png)
