@@ -1,27 +1,109 @@
 ---
 layout: post
-title: "[특허]이동가능한 매트리스 청소도구"
-date: 2018-02-05 15:13:18 +0200
-image: .jpgs
-tags: [jekyll, docs]
-categories: jekyll
+title: "[창업] 디자이너와 식음료가게를 연결시켜주는 플랙폼"
+date: 2024-06-30 15:13:18 +0200
+image: startup1.png
+tags: [rest, work]
+categories: rest
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+##### 소개 : 디자이너와 식음료가게를 연결시켜 팝업스토어를 만들어낼 수 있는 플랙폼
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##### 맡은 임무 : 팀장
 
-Jekyll also offers powerful support for code snippets:
+##### 사용한 프로그램 : 
+<pre>
+    -
+    -
+    -
+</pre>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Image startup1](/images/startup1.png)
+
+안녕하세요,  "달란트" 팀의 발표를 맡은 팀장 김영민입니다. 
+저희팀의 주제는 "디자이너와 식음료가게를 연결해주는 플랫폼"입니다. 
+이 플랫폼은 두 사장님들이 협업하여 창의적인 제품과 서비스를 제공하며, 지역사회를 활성화하고 새로운 비즈니스 기회를 창출하는 것을 목표로 하고 있습니다.
+
+![Image startup2](/images/startup2.png)
+
+먼저, 사업개요입니다. 가꾸라고 들어보셨을까요? 가꾸란 가방꾸미기로, 20-30대 사이에서 키링을 가방에 매고 다니는 것을 많이 보셨을 겁니다. 
+이런 아기자기한 소품들의 소비 트랜드가 늘어나면서 내 방 벽꾸미기, 크록스 꾸미기 등 다양한 형태의 소품 소비가 증가하고 있습니다. 
+그러나 유명해진 다양한 디자이너들의 인터뷰에서 알 수 있듯이 초기 홍보의 어려움을 많이 겪고 포기한다는 것을 알 수 있습니다. 
+저희 달란트는 이런 디자이너들에게 새로운 공간을 제공하고자 합니다.
+
+![Image startup3](/images/startup3.png)
+
+달란트란? 1달 플러스 렌트 라는 뜻입니다. 
+
+현대사회에서 재미있는 이슈가 없으면 사람들이 찾지 않습니다. 
+한달살기 프로젝트처럼, 1달이라는 시간동안 가운데 사진처럼 작은 공간이라도 렌트를 하여 재미있는 이슈를 만드는 기획입니다.
+이런 형태의 공간으로는 대표적인 예로는 ‘팝업스토어’가 있습니다.
+팝업스토어의 시장은 표와 같이 증가하고 백화점에서도 고정적으로 팝업스토어를 진행할 수 있도록 공간을 마련하고 있습니다. 이와 다르게 달란트는 백화점이 아닌 다양한 동네에서 접근하기 편한 작은 팝업스토어 입니다.
+
+![Image startup4](/images/startup4.png)
+
+경쟁사로는 전시,행사대행업체인 리스페이스와 통합 공간 중개 플렛폼인 쉐얼잇으로 
+대기업을 상대로 고가의 작업과 큰 공간에대한 팝업스토어 진행이 이루어지고 있습니다. 
+
+![Image startup5](/images/startup5.png)
+
+앞의 디자이너와 경쟁사들의 문제점과 달리 저희 달란트는 저가로 참여할 수 있으며 
+접근성이 좋고 다양한 형태의 공간으로  참여할 수 있는 팝업스토어를 제공한다는 점을 이야기 할 수 있습니다.
+
+![Image startup6](/images/startup6.png)
+
+이후 페르소나로 인터뷰를 진행했습니다. 디자이너와 식음료가게의 큰 타이틀을 좁혀, 소품디자이너와 도자기디자이너, 카페 사장님을 
+첫 타겟으로 선정하여 인스타그램의 다이렉트 메시지를 이용해 인터뷰를 진행하였습니다. 
+디자이너들은 작품을 더 많은 사람들에게 알리고 싶어하며, 카페 사장님들은 새로운 이슈를 만들어 꾸준한 손님을 끌고싶어했습니다. 
+소비자 층에서는 팝업스토어의 문제점으로 특정지역에서만 열리고 사람이 많아 대기시간에대한 부담감을 느끼고 있다는 것을 추가적으로 알게되었습니다.
+
+![Image startup7](/images/startup7.png)
+
+전체 시장중에 저희는 노원구 공릉역 주변 카페  총 182개와 서울 경기권의 디자이너 1000명을 타겟으로 바라보고있습니다.
+
+![Image startup8](/images/startup8.png)
+
+해결방안으로 저희는 웹사이트를 제작하여 디자이너와 카페 사장님들이 작품과 카페를 홍보할 수 있도록 할 예정입니다. 
+블로그 형식으로 자신들의 활동을 홍보하고, 스타일이 비슷한 사장님들을 연결지어줍니다. 
+이후 1달이라는 시간을 이용하여 (전시사진)카페 내부의 작은 공간에서 전시,판매를 하거나, 
+도자기 디자이너의 경우특정 제품(케이크, 커피)와 같은 부분에서 직접 사용해볼 수 있게 진행되어 체험형 팝업스토어로 
+새로운 이슈를 만들어냅니다. 다음달은 어떤 파트너와 팝업스토어가 열릴지 궁금증을 유발합니다.
+
+![Image startup9](/images/startup9.png)
+
+자본 조달 전략으로는 정부 지원금, 중소벤처기업부의 혁신창업리그와 정주영 창업경진대회 등을 통해  총 1억 1900만원을 조달할 예정입니다. 
+또한, 창업보험을 통해 큰 위험부담을 줄이고자 합니다.
+
+![Image startup10](/images/startup10.png)
+
+수익구조도 입니다. 우리는 디자이너와 카페에 투자금을 제공하고, 수익의 일부를 수수료로 받을 예정입니다. 
+여러번을 테스트를 하여 안정적인 수익구조 창출을 위해 린스타트업 기법으로 진행합니다. 
+디자이너와 카페사장님, 달란트 모두에게 좋은 이익과 다양한 시도가 필요하기때문에 초기에는 투자가 이루어지고 추후에는 투자비용의 절감으로 수익을 극대화 할 예정입니다.
+
+![Image startup11](/images/startup11.png)
+
+TAM,SAM,SOM에서 타겟으로 왜  노원구 공릉역 주변 카페를 타겟으로 하였냐면, 
+팝업스토어가 많이 있는 성수, 연남동, 여의도와 같이 대학가 상권과 숲길 등 20대의 발길을 쉽게 이끌 수 있다는 공통점이있고 
+사람들이 접근하기 편한 위치와 함께 카페거리가 형성되어 있어 타겟으로 선정하였습니다.
+
+![Image startup12](/images/startup12.png)
+
+저희 달란트의 전략은 독특성과 궁금증을 이용해 시장을 선점하고, 다양한 테마와 이벤트로 고객을 유치하는 것입니다. 
+또한, 저렴한 임대료와 유연한 재고 처리로 적은 쓰레기 배출까지 이루어져 환경문제까지 신경쓸 것입니다.
+
+![Image startup13](/images/startup13.png)
+
+2025년에는 1달에 총4개의 팀을 구성해 진행할 예정입니다. 
+홀수달과 짝수달을 나누어 준비기간과 운영기간을 나누어 집중을 할 수 있도록할 예정이고. 이후 안정화가 되어 
+26년에는 준비기간으로 인한 공백기를 없애고 홀수달에도 소수의 팀을 진행 후 추후에는 홀수달과 짝수달 구분없이 진행해나갈 계획입니다.
+
+![Image startup14](/images/startup14.png)
+
+마지막으로  현재 팀원인 이상민,박원혁, 김지원 팀원으로 구성되고, 향후에는 변리사와 인테리어 작가도 포함하여 진행할 예정입니다.
+
+![Image startup15](/images/startup15.png)
+
+저희는 디자이너와 카페 사장님을 연결하여 창의적인 제품과 서비스를 통해 지역사회를 활성화하고, 
+새로운 비즈니스 기회를 창출하며 상호 협력과 혁신을 지원하는 플랫폼으로 나아가겠습니다. 감사합니다.
+
