@@ -6,6 +6,7 @@ image: startup1.png
 tags: [rest, work]
 categories: rest
 ---
+
 ##### 소개 : 디자이너와 식음료가게를 연결시켜 팝업스토어를 만들어낼 수 있는 플랙폼
 
 ##### 맡은 임무 : 팀장 및 운영, 기획
