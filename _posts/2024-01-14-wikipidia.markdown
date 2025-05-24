@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[개발]GoogleMap API에 위키백과사전 정보를 보여줄 수 있는 WEB'
+title: '[개발]GoogleMap과 함께 위키백과사전 정보를 보여줄 수 있는 WEB'
 image: 20.jpg 
 date: 2024-01-14 12:00:00
 tags:
@@ -14,14 +14,14 @@ categories: guide
 </div>
 
 <br>
-##### 맡은 임무 : UI파트 (5인으로 구성하여 UI, DB, 시각화, 크롤링, 서버로 나누어 활동)
+##### 맡은 임무 : UI파트  (5인으로 구성하여 UI, DB, 시각화, 크롤링, 서버로 나누어 활동)
 
 ##### 사용한 프로그램 : 
 <pre>
-	Front-End(HTML, CSS, Python), 
-	Back-end(Django), 
-	Data-crawl(web-crawling), 
-	DB(DBsqlite3)
+	Front-End : HTML, CSS, Python, 
+	Back-end : Django, 
+	Data-crawl : web-crawling, 
+	DB : DBsqlite3
 </pre>
 
 ##### 주요 기능 : 
@@ -34,7 +34,7 @@ categories: guide
 
 ***
 
->첫 web-page
+>메인 화면
 
 ![Image 22](/images/22.jpg)
 
@@ -67,53 +67,18 @@ categories: guide
 
 >이슈
 
+![Image 29](/images/29.jpg)
 
-#### Headings by default:
+Google Map 을 이용하여 경도, 위도를 사용하게 되어있었지만 이 경도와 위도를 이용해서 주소를 불러낼 수 있는 코드를 사용했다.
 
-# H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
+![Image 31](/images/31.jpg)
 
-#### Lists
+위키피디아의 정보가 도, 시, 군, 구, 읍, 면, 리 까지 전체 나오는 것을 발견하여 어떤 정보를 우선적으로 시각화 할 것인지 정했다.
 
-###### Ordered list example:
+![Image 30](/images/30.jpg)
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+우선 구별하기 쉬운 행정구역 특별시와 광역시, 도, 특별자치도를 포함하여 14개 구역을 시각화 하기로 했다.
 
-###### Unordered list example:
+![Image 32](/images/32.jpg)
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
+검색창으로 검색되는 곳의 위치를 표시하고 우측 바를 통해 해당 지역의 도시 정보를 출력할 수 있다. 사용자가 커서를 이용하여 궁금한 지역을 클릭했을 경우에는 주소에서 도시 부분을 인식하여 검색되도록 했다.
