@@ -20,6 +20,8 @@ categories: rest
 
 > 설계 및 도면 작업 
 
+![Image patent6](/images/patent6.jpg)
+
 ![Image patent1](/images/patent1.jpg)
 
 ![Image patent2](/images/patent2.jpg)
@@ -29,8 +31,6 @@ categories: rest
 ![Image patent4](/images/patent4.jpg)
 
 ![Image patent5](/images/patent5.jpg)
-
-![Image patent6](/images/patent6.jpg)
 
 ![Image patent7](/images/patent7.jpg)
 

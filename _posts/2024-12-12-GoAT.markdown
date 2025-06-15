@@ -24,8 +24,26 @@ categories: rest
 - Websocket을 통한 4명 이하의 인원을 매칭되는 알고리즘 
 - Redis를 활용한 실시간 채팅
 - 카카오페이 API분석 후 결제 알고리즘 적용
-
 </pre>
+
+<pre>
+논문 : 
+<p>
+  📎 <a href="/post_files/GoAT_졸업논문.hwp" download>GoAT_졸업논문</a>
+</p>
+</pre>
+
+<hr>
+
+##### 아키텍처 : 
+![Image GoAT아키텍처](/images/GoAT아키텍처.png)
+
+<hr>
+
+##### 기능흐름도 : 
+![Image GoAT기능흐름도](/images/GoAT기능흐름도.png)
+
+<hr>
 
 ![Image GoAT2](/images/GoAT2.png)
 
@@ -81,3 +99,4 @@ categories: rest
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
