@@ -8,7 +8,7 @@ categories: rest
 ---
 ##### 소개 : 빠른 매칭 기반 안전한 택시 합승 시스템 기반 어플리케이션을 제작
 ##### 개발기간 : 2024.03 ~ 2024.11
-##### 맡은 임무 : Full-stack, 기여도 70% 
+##### 맡은 임무 : Full-stack, 기여도 65% 
 <pre>
     3인으로 구성 : 팀장 및 DBA(<a href="https://github.com/arsriu" target="_blank">류한성</a>), FULL-STACK(김영민), QA(김선휘)로 나누어 활동
 </pre>
