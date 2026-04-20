@@ -52,7 +52,26 @@ categories: rest
 <pre>
 
 현재 소독업을 전문적으로 운영하는 회사들은 현장 방문을 통해 휴대형 장비를 활용하여 매트리스를 청소하고 소독제를 살포하고 있다. 즉, 이 모든 과정을 차량 내부에 설치하여야 한다. 또한 작업 시간은 30분 내외로 하되, 매트리스 모든 면을 청소할 수 있어야 한다. 청소 기능을 수행할 수 있는 전원공급장치와 환기 장치도 같이 설비되어야 한다.
+
 </pre>
+
+>연관된 특허 (청소 용품 및 차량) 자료조사
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images/paten_666.png" width="33%">
+  <img src="/images/paten_555.png" width="34%">
+  <img src="/images/paten_777.png" width="33%">
+</div>
+
+>아이디어 조합하기
+
+![Image paten_111](/images/paten_111.png)
+
+![Image paten_222](/images/paten_222.png)
+
+![Image paten_333](/images/paten_333.png)
+
+![Image paten_444](/images/paten_444.png)
 
 > 설계 및 도면 작업 
 
